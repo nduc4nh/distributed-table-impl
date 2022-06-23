@@ -4,7 +4,7 @@ Distributed Table Hashing &amp; Round robin for table design in DWH. This repo i
 
 # SQL Pool
 
-`Azure Synapse`, a service in `Azure Platform`, use SQL pool as a data warehouse solution. The service provide users with many features: data ingestion, data analytics wrapping around Azure SQL pool. Integrated with Data Storage solution and such sub-services, Azure Synapse follows the modern lakehouse approach in data processing
+`Azure Synapse`, a service in `Azure Platform`, uses SQL pools as a data warehouse solution. The service provide users with many features: data ingestion, data analytics wrapping around Azure SQL pool. Integrated with Data Storage solution and such sub-services, Azure Synapse follows the modern lakehouse approach in data processing
 
 There are 2 types of SQL pool: `dedicated SQL` pool & `serverless SQL` pool, they're both deployed in distributed manner.
 
