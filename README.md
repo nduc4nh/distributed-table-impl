@@ -1,5 +1,5 @@
 # distributed-table-impl
-Distributed Table Hashing &amp; Round robin for table design in DWH. This repo is created just for learning purpose.
+Distributed Hashing &amp; Round robin for table design in DWH. This repo is created just for learning purpose.
 
 
 # SQL Pool
